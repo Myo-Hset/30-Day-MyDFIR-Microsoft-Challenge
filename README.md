@@ -9,29 +9,38 @@ The purpose of this challenge is to demonstrate how to detect and respnd on clou
   - Documented security events and created investigation summaries aligned with MITRE ATT&CK tactics and techniques.
   - Gained hands-on experience with incident escalation, reporting, and detection tuning in a lab environment
 
-## Tools Used
+## Tools
   - Microsoft Sentinel
   - Defender for Endpoint
   - Entra ID
   - Microsoft office 365
   - Windows 11 Operation System
+  - Proton Mail
 
 ## Step Take Before the Simulation.
-  - I have onborded EDR agent the my Test-Machine.
+
+  - I have onboarded the EDR agent to my test machine.
 
   <img width="375" height="257" alt="image" src="https://github.com/user-attachments/assets/322e2cfe-b335-4da0-946c-a046476b7dbb" />
 
-  
-  - I have created the Attack Surface Reduction (ASR) In entra Rules to help suspicious or risky behaviors commonly used by malware on Endpoint.
+  - I created Attack Surface Reduction (ASR) rules in Entra ID to help reduce suspicious or risky behaviors commonly used by malware on endpoints.
 
-<img width="831" height="815" alt="image" src="https://github.com/user-attachments/assets/92d01fe3-6995-4058-8aed-a000206519f9" />
+  <img width="831" height="815" alt="image" src="https://github.com/user-attachments/assets/92d01fe3-6995-4058-8aed-a000206519f9" />
 
-  - And Created 2 user for Email Simulation
+  - I created two users for the simulation.
 
   <img width="911" height="201" alt="image" src="https://github.com/user-attachments/assets/db907904-160a-4828-925c-32f6e99631a9" />
     
-  - I have created the Safelink-Test Rule in Microsoft Defender(XDR). And Make sure it includes click tracking and blocking malicious links
+  - I created the SafeLink-Test rule in Microsoft Defender (XDR) and ensured that it includes click tracking and blocks malicious links.
+  
+  <img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/9763e035-0ce0-4052-92eb-ea0872143a39" />
 
-<img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/9763e035-0ce0-4052-92eb-ea0872143a39" />
+  - After completing the lab, I created a Conditional Access policy to test whether it was working. As the screenshot below shows, it is functioning correctly.
+
+
+## Attack Sumlation 
+
+  
+
 
 
