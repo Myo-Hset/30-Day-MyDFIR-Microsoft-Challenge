@@ -17,7 +17,7 @@ The purpose of this challenge is to demonstrate how to detect and respnd on clou
   - Windows 11 Operation System
   - Proton Mail
 
-## Step Take Before the Simulation.
+## Step Taken Before the Simulation.
 
   - I have onborded the test machine Window 11 VM on Azure Cloud.
 
@@ -45,6 +45,8 @@ The purpose of this challenge is to demonstrate how to detect and respnd on clou
 ## Attack Simulation
 
 On Thursday morning, Bob and Jenny received an email from an unknown user named EndyGanny. Bob suspected it was a phishing email and reported it as phishing in Outlook. Unfortunately, Jenny clicked the link and entered her username and password. When nothing happened afterward, she realized it might be a phishing attempt and contacted the SOC team.
+
+On Thursday morning, the SOC team received an Impossible Travel sign‑in alert and a Multi‑Stage Incident alert in Microsoft XDR. SOC team member June began investigating the alerts.
 
 
 
