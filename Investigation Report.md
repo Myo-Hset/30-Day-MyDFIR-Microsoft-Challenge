@@ -59,12 +59,8 @@ Microsoft Defender for Endpoint detected the malicious activity, contained the t
 * Sender Email: endyganny@protonmail[.]com (Enddy Eanny)
 * Display Name: Endy Eanny
 * Subject: Invoice is Ready for Viewing - 3748291
-* Recipients:
-• 	bob@30dayproject[.]onmicrosoft[.]com
-• 	jenny@30dayproject[.]onmicrosoft[.]com
-* User Actions:
-• 	Bob: Reported the email as phishing
-• 	Jenny: Clicked the link, resulting in account compromise
+* Recipients:	bob@30dayproject[.]onmicrosoft[.]com , jenny@30dayproject[.]onmicrosoft[.]com
+* User Actions:	Bob: Reported the email as phishing and Jenny: Clicked the link, resulting in account compromise
 
 <img width="1592" height="702" alt="Screenshot 2026-01-27 131335" src="https://github.com/user-attachments/assets/462f2cb3-f69f-4c60-a800-7f430d7f2212" />
 
