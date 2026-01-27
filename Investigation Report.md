@@ -19,12 +19,12 @@ On January 27, 2026 (UTC), Microsoft XDR generated an alert indicating that a ha
 The investigation confirmed that Jenny Smith’s account was compromised through a phishing email sent from the attacker identity Endy Eanny: endyganny@protonmail[.]com.User comfirmed that he/she enter the User Name and Password. After gaining access, the attacker attempted to download and execute Mimikatz to harvest credentials from the device.
 Microsoft Defender for Endpoint detected the malicious activity, contained the threat, and automatically remediated the device.
 
--  Who - Activity occurred on the host with IP address 172.16.0.4, associated with the user account jenny@30dayproject.onmicrosoft.com.
--  What - The attacker downloaded a credential‑harvesting tool (Mimikatz) after gaining access to the compromised host.
--  When - Based on Microsoft XDR alerts and the user’s report, the activity occurred between January 27, 2026, 11:28 AM and 12:48 PM (UTC). Microsoft XDR took the necessary automated actions, and the SOC team verified the remediation.
-- WHERE - - The malicious activity took place on the computer with IP 172.16.0.4, under the compromised user account jenny@30dayproject[.]onmicrosoft[.]com.
-- Why - The attacker attempted to harvest credentials from the compromised host.
-- How: - The user clicked a link in a phishing email, entered her credentials, and her account was compromised. Using the stolen credentials, the attacker accessed the host and downloaded the malicious tool Mimikatz to execute on the machine.
+-  Who : Activity occurred on the host with IP address 172.16.0.4, associated with the user account jenny@30dayproject.onmicrosoft.com.
+-  What : The attacker downloaded a credential‑harvesting tool (Mimikatz) after gaining access to the compromised host.
+-  When : Based on Microsoft XDR alerts and the user’s report, the activity occurred between January 27, 2026, 11:28 AM and 12:48 PM (UTC). Microsoft XDR took the necessary automated actions, and the SOC team verified the remediation.
+- WHERE : The malicious activity took place on the computer with IP 172.16.0.4, under the compromised user account jenny@30dayproject[.]onmicrosoft[.]com.
+- Why : The attacker attempted to harvest credentials from the compromised host.
+- How: : The user clicked a link in a phishing email, entered her credentials, and her account was compromised. Using the stolen credentials, the attacker accessed the host and downloaded the malicious tool Mimikatz to execute on the machine.
 
 ### Check the Image below
 
