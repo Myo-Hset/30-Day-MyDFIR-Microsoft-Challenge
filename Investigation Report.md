@@ -68,6 +68,8 @@ Microsoft Defender for Endpoint detected the malicious activity, contained the t
 
 <img width="1592" height="702" alt="Screenshot 2026-01-27 131335" src="https://github.com/user-attachments/assets/462f2cb3-f69f-4c60-a800-7f430d7f2212" />
 
+<img width="756" height="338" alt="Screenshot 2026-01-27 143339" src="https://github.com/user-attachments/assets/6b4feb36-9f17-491d-8694-da91f6056bb6" />
+
 
 # Recommendations
 
