@@ -1,6 +1,6 @@
 # 30-Day-MyDFIR-Microsoft-Challenge
 
-The purpose of this challenge is to demonstrate how to detect and respnd on cloud‑based SOC lab using Microsoft Sentinel, Defender for Endpoint, MDO, and Entra ID, and to simulate detection and incident response.
+The purpose of this challenge is to demonstrate how to detect and respond on cloud‑based SOC lab using Microsoft Sentinel, Defender for Endpoint, MDO, and Entra ID, and to simulate detection and incident response.
 
 ### Skills Learned
 
@@ -41,12 +41,19 @@ The purpose of this challenge is to demonstrate how to detect and respnd on clou
 
   - After completing the lab, I created a Conditional Access policy to test whether it was working. As the screenshot below shows, it is functioning correctly.
 
+  
 
-## Attack Simulation
 
-On Thursday morning, Bob and Jenny received an email from an unknown user named EndyGanny. Bob suspected it was a phishing email and reported it as phishing in Outlook. Unfortunately, Jenny clicked the link and entered her username and password. When nothing happened afterward, she realized it might be a phishing attempt and contacted the SOC team.
+## Incident Scenario 
 
-On Thursday morning, the SOC team received an Impossible Travel sign‑in alert and a Multi‑Stage Incident alert in Microsoft XDR. SOC team member June began investigating the alerts.
+On the morning of January 27 (Thursday), Bob and Jenny received an email from an unknown sender named Endy Eanny. Bob immediately suspected the message was a phishing attempt and reported it as phishing in Outlook. Unfortunately, Jenny clicked the link in the email and entered her username and password. When nothing happened afterward, she became suspicious and contacted the SOC team.
+Later that same morning, the SOC team received an alert in Microsoft XDR indicating that a hands‑on keyboard attack had been launched from a compromised account. SOC analyst June initiated an investigation into the alerts and began reviewing the suspicious activity.
+
+## Investigation Report
+
+| Alert                                      | Investigation Report        |
+|-----------------------------------------------|----------------------------|
+|    a hands‑on keyboard attack had been launched from a compromised account | <a href="https://github.com/Myo-Hset/Detection-Lab-](https://github.com/Myo-Hset/30-Day-MyDFIR-Microsoft-Challenge/blob/main/Investigation%20Report.md">Investigation Report</a> |
 
 
 
