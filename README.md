@@ -59,7 +59,9 @@ Later that same morning, the SOC team received an alert in Microsoft XDR indicat
 |    a hands‑on keyboard attack had been launched from a compromised account | <a href="https://github.com/Myo-Hset/30-Day-MyDFIR-Microsoft-Challenge/blob/main/Investigation%20Report.md">Investigation Report</a> |
 
 
+## Summary
 
+By creating this project, we can demonstrate how logs are transferred, how the tools operate, and how they interact with each other. It also highlights the importance of having visibility and generating alerts in the SIEM.
 
 
 
