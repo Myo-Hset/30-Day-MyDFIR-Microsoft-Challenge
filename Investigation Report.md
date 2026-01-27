@@ -33,7 +33,7 @@ The investigation confirmed that Jenny Smith’s account was compromised through
    * Suspicious Sign In
 <img width="1622" height="627" alt="Screenshot 2026-01-27 131838" src="https://github.com/user-attachments/assets/26941d2e-5e13-4d36-840e-5d894d405314" />
 
-*    Power Shell Executed Script
+*    Powershell Executed Script
 <img width="813" height="151" alt="Screenshot 2026-01-27 132908" src="https://github.com/user-attachments/assets/c16e8af7-24c0-4073-80e7-fb53ca448a04" />
 
 
