@@ -17,7 +17,7 @@ The purpose of this challenge is to demonstrate how to detect and respond on clo
   - Windows 11 Operation System
   - Proton Mail
 
-## Step Taken Before the Simulation.
+## Step Taken Before the Simulation 
 
   - I have onborded the test machine Window 11 VM on Azure Cloud.
 
