@@ -12,8 +12,8 @@
 - Alert: Hands-on keyboard attack launched from a compromised account
 - Investigation Status: Remediated
 - Automated Investigation and Response: Status changed from New to Resolved on Jan 27, 2026, 12:22:53 PM UTC
-- Suspicious Folder Path:c:\users\jennysmith\appdata\local\temp\mimikatz_extracted\
-- Suspicious File Name :c:\users\jennysmith\appdata\local\temp\mimikatz.zip
+- Suspicious Folder Path: c:\users\jennysmith\appdata\local\temp\mimikatz_extracted\
+- Suspicious File Name : c:\users\jennysmith\appdata\local\temp\mimikatz.zip
 
 ### Summary
 
