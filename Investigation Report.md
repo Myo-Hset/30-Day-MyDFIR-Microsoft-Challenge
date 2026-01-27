@@ -12,7 +12,8 @@
 - Investigation Status: Remediated
 - Automated Investigation and Response: Status changed from New to Resolved on Jan 27, 2026, 12:22:53 PM UTC
 - Suspicious Folder Path: c:\users\jennysmith\appdata\local\temp\mimikatz_extracted\
-- Suspicious File Name : c:\users\jennysmith\appdata\local\temp\mimikatz.zip
+- Suspicious File Path : c:\users\jennysmith\appdata\local\temp\mimikatz.zip
+- Suspicious File Path : C:\Users\JennySmith\AppData\Local\Temp\mimikatz_extracted\x64\mimikatz.exe
 
 # Investigation
 On January 27, 2026 (UTC), Microsoft XDR generated an alert indicating that a hands-on keyboard attack was launched from the compromised account of Jenny Smith on host myohset-vm.
@@ -30,12 +31,15 @@ The investigation confirmed that Jenny Smith’s account was compromised through
 *    Alert
 <img width="1641" height="817" alt="Screenshot 2026-01-27 131019" src="https://github.com/user-attachments/assets/d5481c8d-ce13-414a-ada2-1e615adfd5f1" />
 
-   * Suspicious Sign In
+*    Suspicious Sign In
 <img width="1622" height="627" alt="Screenshot 2026-01-27 131838" src="https://github.com/user-attachments/assets/26941d2e-5e13-4d36-840e-5d894d405314" />
 
 *    Powershell Executed Script
 <img width="813" height="151" alt="Screenshot 2026-01-27 132908" src="https://github.com/user-attachments/assets/c16e8af7-24c0-4073-80e7-fb53ca448a04" />
 
+*   Mimikatz Execution
+
+<img width="1867" height="158" alt="image" src="https://github.com/user-attachments/assets/777fcefb-736f-4f2b-836a-6cfea2b94e5e" />
 
 
 # Validation Steps
