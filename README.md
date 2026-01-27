@@ -61,8 +61,7 @@ Later that same morning, the SOC team received an alert in Microsoft XDR indicat
 
 ## Summary
 
-By creating this project, we can demonstrate how logs are transferred, how the tools operate, and how they interact with each other. It also highlights the importance of having visibility and generating alerts in the SIEM.
-
+By completing this challenge, we demonstrated the ability to build a cloud‑based SOC lab and apply real‑world detection and incident response skills by configuring security controls, simulating phishing attacks, investigating alerts across multiple domains, and documenting findings in structured SOC reports.
 
 
 
