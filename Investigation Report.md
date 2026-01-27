@@ -24,7 +24,7 @@ Microsoft Defender for Endpoint detected the malicious activity, contained the t
 *    Alert
 <img width="1641" height="817" alt="Screenshot 2026-01-27 131019" src="https://github.com/user-attachments/assets/d5481c8d-ce13-414a-ada2-1e615adfd5f1" />
 
-   * Supsecuous Sign In
+   * Suspicious Sign In
 <img width="1622" height="627" alt="Screenshot 2026-01-27 131838" src="https://github.com/user-attachments/assets/26941d2e-5e13-4d36-840e-5d894d405314" />
 
 *    Power Shell Executed Script
