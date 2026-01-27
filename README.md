@@ -50,7 +50,7 @@ The purpose of this challenge is to demonstrate how to detect and respond on clo
 ## Incident Scenario 
 
 On the morning of January 27 (Tuesday), Bob and Jenny received an email from an unknown sender named Endy Eanny. Bob immediately suspected the message was a phishing attempt and reported it as phishing in Outlook. Unfortunately, Jenny clicked the link in the email and entered her username and password. When nothing happened afterward, she became suspicious and contacted the SOC team.
-Later that same morning, the SOC team received an alert in Microsoft XDR indicating that a hands‑on keyboard attack had been launched from a compromised account. SOC analyst June initiated an investigation into the alerts and began reviewing the suspicious activity.
+Later that same morning, the SOC team received the alert in Microsoft XDR indicating that a hands‑on keyboard attack had been launched from a compromised account. SOC analyst June initiated the investigation and began reviewing the suspicious activity.
 
 ## Investigation Report
 
