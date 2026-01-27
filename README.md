@@ -54,7 +54,7 @@ Later that same morning, the SOC team received the alert in Microsoft XDR indica
 
 ## Investigation Report
 
-| Alert                                      | Investigation Report        |
+| Alert Name                                      | Investigation Report        |
 |-----------------------------------------------|----------------------------|
 |    a hands‑on keyboard attack had been launched from a compromised account | <a href="https://github.com/Myo-Hset/30-Day-MyDFIR-Microsoft-Challenge/blob/main/Investigation%20Report.md">Investigation Report</a> |
 
