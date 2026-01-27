@@ -39,7 +39,10 @@ The purpose of this challenge is to demonstrate how to detect and respond on clo
   
   <img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/9763e035-0ce0-4052-92eb-ea0872143a39" />
 
-  - After completing the lab, I created a Conditional Access policy to test whether it was working. As the screenshot below shows, it is functioning correctly.
+  - After completing the lab, I created a Conditional Access policy to block cloud app access from the country Japan in order to test whether the policy was functioning correctly. As shown in the screenshot, the policy is working as expected.
+<img width="588" height="660" alt="image" src="https://github.com/user-attachments/assets/7f66b242-d6b7-4fcd-a482-37b0b484c7a6" />
+
+<img width="1242" height="756" alt="image" src="https://github.com/user-attachments/assets/820d4328-150c-47aa-840a-a56bcee6f8b5" />
 
   
 
@@ -54,6 +57,11 @@ Later that same morning, the SOC team received an alert in Microsoft XDR indicat
 | Alert                                      | Investigation Report        |
 |-----------------------------------------------|----------------------------|
 |    a hands‑on keyboard attack had been launched from a compromised account | <a href="https://github.com/Myo-Hset/30-Day-MyDFIR-Microsoft-Challenge/blob/main/Investigation%20Report.md">Investigation Report</a> |
+
+
+
+
+
 
 
 
