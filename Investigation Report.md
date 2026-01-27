@@ -16,8 +16,7 @@
 
 # Investigation
 On January 27, 2026 (UTC), Microsoft XDR generated an alert indicating that a hands-on keyboard attack was launched from the compromised account of Jenny Smith on host myohset-vm.
-The investigation confirmed that Jenny Smith’s account was compromised through a phishing email sent from the attacker identity Endy Eanny: endyganny@protonmail[.]com.User comfirmed that he/she enter the User Name and Password. After gaining access, the attacker attempted to download and execute Mimikatz to harvest credentials from the device.
-Microsoft Defender for Endpoint detected the malicious activity, contained the threat, and automatically remediated the device.
+The investigation confirmed that Jenny Smith’s account was compromised through a phishing email sent from the attacker identity Endy Eanny: endyganny@protonmail[.]com.User confirmed that he/she entered their username and password on the phishing link. After gaining access, the attacker attempted to download and execute Mimikatz to harvest credentials from the device. Microsoft Defender for Endpoint detected the malicious activity, contained the threat, and automatically remediated the device.
 
 -  Who : Activity occurred on the host with IP address 172.16.0.4, associated with the user account jenny@30dayproject.onmicrosoft.com.
 -  What : The attacker downloaded a credential‑harvesting tool (Mimikatz) after gaining access to the compromised host.
