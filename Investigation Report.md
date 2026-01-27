@@ -75,7 +75,7 @@ The investigation confirmed that Jenny Smith’s account was compromised through
 # Recommendations
 
 - Continue monitoring Jenny Smith’s account for unusual activity.
-- Enforce password reset and MFA revalidation for affected users.
+- Enforce a password reset and enable MFA for all affected user accounts.
 - Conduct phishing awareness training for all employees.
 - Review email filtering rules to strengthen detection of similar phishing attempts.
 - Validate that no additional persistence mechanisms or lateral movement occurred.
