@@ -53,7 +53,9 @@ The investigation confirmed that Jenny Smith’s account was compromised through
 
 * A domain-wide query identified two users who received the phishing email.
 * The malicious domain and sender were blocked, and appropriate actions were taken.
-* Phishing Details:
+
+ #### Phishing Details:
+ 
 * Source IP: 109.224.244.25
 * Sender Email: endyganny@protonmail[.]com (Enddy Eanny)
 * Display Name: Endy Eanny
