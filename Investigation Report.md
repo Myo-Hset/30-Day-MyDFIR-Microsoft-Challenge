@@ -66,6 +66,7 @@ The investigation confirmed that Jenny Smith’s account was compromised through
 * Sender Email: endyganny@protonmail[.]com (Enddy Eanny)
 * Display Name: Endy Eanny
 * Subject: Invoice is Ready for Viewing - 3748291
+* Malicious url: hxxps[://]docusign[.]com/
 * Recipients:	bob@30dayproject[.]onmicrosoft[.]com , jenny@30dayproject[.]onmicrosoft[.]com
 * User Actions:	Bob: Reported the email as phishing and Jenny: Clicked the link, resulting in account compromise
 
